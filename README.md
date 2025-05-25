@@ -1,7 +1,9 @@
-# Emotion Classification from Tweets using SVM
+# Emotion Classification Using SVM For Tweets 
 
 This project focuses on classifying the emotions expressed in tweets using **Support Vector Machines (SVM)**. It uses a Linear Kernel, which is well-suited for text classification tasks due to its efficiency and performance on high-dimensional data.
 
+#Streamlit App Link
+This is the link for my Emotion Classification Unsing SVM For Tweets (https://emotion-classifier-using-svm-from-tweets-5gamzm5ahl7wwesjnvkab.streamlit.app/)
 ---
 
 ## Project Overview
@@ -71,12 +73,12 @@ This project focuses on classifying the emotions expressed in tweets using **Sup
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/c/Emotion-Classification-from-Tweets-using-SVM.git
-   cd Emotion-Classification-from-Tweets-using-SVM
+   git clone https://github.com/ankitswamy/Emotion-Classifier-Using-SVM-From-Tweets
+   cd Emotion-Classification Using SVM For Tweets
    
 ## Author
 
 **Ankit Kumar**  
 MSc Data Analytics  
 Digital University Kerala
-GitHub: [@ankitkumar](https://github.com/ankitswamy)
+GitHub: [@ankitswamy](https://github.com/ankitswamy)
