@@ -3,7 +3,7 @@
 This project focuses on classifying the emotions expressed in tweets using **Support Vector Machines (SVM)**. It uses a Linear Kernel, which is well-suited for text classification tasks due to its efficiency and performance on high-dimensional data.
 
 #Streamlit App Link
-This is the link for my Emotion Classification Unsing SVM For Tweets (https://emotion-classifier-using-svm-from-tweets-5gamzm5ahl7wwesjnvkab.streamlit.app/)
+This is the link for my Emotion Classification Using SVM For Tweets (https://emotion-classifier-using-svm-from-tweets-5gamzm5ahl7wwesjnvkab.streamlit.app/)
 ---
 
 ## Project Overview
